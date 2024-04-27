@@ -43,3 +43,9 @@ hashmap.c:71:21: error: ‘old_capacity’ is used uninitialized [-Werror=uninit
 cc1: all warnings being treated as errors
 Compilation failed
 ab5dc97
+Sat 27 Apr 2024 10:05:37 PM UTC: 
+ hashmap.c | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+ tests:  17|0
+total_score: 70/70
+bc949ea
